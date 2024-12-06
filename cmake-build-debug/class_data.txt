@@ -1,7 +1,7 @@
 1
 New Class
-7
 8
+9
 1,yazi
 2,roland
 3,amalie
@@ -9,3 +9,4 @@ New Class
 5,arthur
 6,Yazdan
 7,ABCD
+8,Amalie Andersen

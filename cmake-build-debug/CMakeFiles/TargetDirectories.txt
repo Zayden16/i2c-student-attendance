@@ -1,3 +1,3 @@
-/Users/zayden/CLionProjects/i2c-student-attendance/cmake-build-debug/CMakeFiles/untitled.dir
-/Users/zayden/CLionProjects/i2c-student-attendance/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/zayden/CLionProjects/i2c-student-attendance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Amali/Documents/Projects/c_project/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Amali/Documents/Projects/c_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Amali/Documents/Projects/c_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
