@@ -15,7 +15,7 @@
 #define FILENAME "class_data.txt"
 #define MAX_PATH 1024
 
-typedef struct { //test
+typedef struct { //test test
     int id;
     char name[MAX_NAME_LENGTH];
     bool present;
