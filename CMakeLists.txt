@@ -8,4 +8,8 @@ add_executable(untitled main.c
         student_library.h
         file_library.h
         file_library.c
+        auth_library.h
+        auth_library.c
+        class_library.h
+        class_library.c
 )

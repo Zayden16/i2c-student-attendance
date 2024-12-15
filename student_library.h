@@ -15,6 +15,7 @@ typedef struct {
 typedef struct {
     int classId;
     char className[MAX_NAME_LENGTH];
+    int teacherId;
     Student students[MAX_STUDENTS];
     int studentCount;
     int nextStudentId;
