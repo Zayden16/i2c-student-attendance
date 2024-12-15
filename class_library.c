@@ -15,7 +15,7 @@ bool createClass(SchoolSystem* school, const char* className, int teacherId) {
 
     Class* newClass = &school->classes[school->classCount];
     initializeClass(newClass, school->nextClassId, className);
-    newClass->teacherId = teacherId;  // Add this field to Class struct
+    newClass->teacherId = teacherId;
     
     school->classCount++;
     school->nextClassId++;
@@ -73,7 +73,6 @@ bool saveSchoolSystem(SchoolSystem* school) {
         Class* class = &school->classes[i];
         fprintf(file, "%d,%s,%d\n", class->classId, class->className, class->teacherId);
         
-        // Save students for this class
         fprintf(file, "%d\n", class->studentCount);
         for (int j = 0; j < class->studentCount; j++) {
             Student* student = &class->students[j];

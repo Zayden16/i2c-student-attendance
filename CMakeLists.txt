@@ -12,4 +12,6 @@ add_executable(untitled main.c
         auth_library.c
         class_library.h
         class_library.c
+        attendance_analytics.h
+        attendance_analytics.c
 )
